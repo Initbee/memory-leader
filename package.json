@@ -1,6 +1,6 @@
 {
   "name": "memory-leader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Leader election using memory",
   "main": "index",
   "scripts": {
